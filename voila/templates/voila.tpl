@@ -22,8 +22,6 @@
 </script>
 <script src="/voila/static/jquery.min.js"></script>
 
-
-
 </script>
 {% block ipywidgets %}
 {%- if "widgets" in nb.metadata -%}
